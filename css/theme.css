@@ -109,10 +109,10 @@ em {
 	transition: color 0.5s ease-in-out;
 }
 
-@media(min-width:768px) {
+@media(max-width:768px) {
 	p {
 		margin: 0 0 35px;
-		font-size: 35px;
+		font-size: 21px;
 		line-height: 1.6;
 	}
 }

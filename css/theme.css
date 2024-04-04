@@ -632,6 +632,12 @@ section {
 }
 
 .refP {
+	transition: 1s;
 	border-radius: 300px;
 	border: #01a754 1px solid;
+}
+
+.refP:hover{
+	scale: 1.3;
+	border: #01a754 30px solid;
 }
